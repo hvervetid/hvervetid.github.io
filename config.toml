@@ -1,11 +1,11 @@
 relativeURLs = true
-title = "Gautam Rao"
+title = "Alexander Gilså Hansen"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Associate Professor of Business and Economics, University of California, Berkeley"
-    logo = "Rao_headshot_berkeley.jpg" 
+    shortbio = "PhD student in Economics at Stanford (2024 cohort)"
+    logo = "mefancy.jpg" 
     
