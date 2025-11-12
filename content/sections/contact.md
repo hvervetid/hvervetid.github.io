@@ -1,10 +1,7 @@
-__Email__: [grao@berkeley.edu](grao@berkeley.edu)  
-__Phone__: +1-734-846-7754  
-__Office__:  F653 (Haas), 507 Evans Hall (Economics)
+__Email__: [aghansen@stanford.edu](aghansen@stanford.edu)  
+__Phone__: +1-650-509-2980
+__Office__:  3rd Floor Landau
 
-__Teaching__  
-EWMBA 201A: Economics for Business Decision Making   
-Econ 219B: Applications of Psychology and Economics (second-year PhD class)
+__Teaching__: None
 
-__[Information](/info_for_potential)__ for (potential) advisees
 
