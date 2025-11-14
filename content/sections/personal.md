@@ -1,1 +1,1 @@
-**Website**: I have used the template of [Gautam Rao](https://github.com/gautamrao/gautamrao.github.io), who in turn has it from [Xinyue Lin](https://xinyue-lin.com/).
+**Website**: I have used the webpage template of [Gautam Rao](https://github.com/gautamrao/gautamrao.github.io), who in turn was inspired by [Xinyue Lin](https://xinyue-lin.com/).
