@@ -1,1 +1,2 @@
+Outside of economics, I like running, hiking and generally being outdoors. I am also quite interested in politics and was a member of (and, once, a candidate for municipal office for) Radikale Venstre. Sadly, this ended when I moved out of Denmark. 
 **Website**: I have used the webpage template of [Gautam Rao](https://github.com/gautamrao/gautamrao.github.io), who in turn was inspired by [Xinyue Lin](https://xinyue-lin.com/).
