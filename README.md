@@ -4,6 +4,21 @@ https://gautam-rao.com
 
 And is currently under construction. 
 
+## How to set up
+* First step is to set up a GitHub account.
+* Second step is to create your website repository
+    * Do not fork for this. Instead:
+    * Click the “+” in GitHub’s top-right > Import repository, paste the repo URL, and import it.
+    * Name the new repository exactly: yourusername.github.io (replace with your actual GitHub username).
+    * Make it Public.
+* Third step is to open the repo’s Settings > Pages and ensure that:
+   * Source is set to “Deploy from a branch”
+   * Branch is main (or whichever branch your files are on) and folder is “/ (root)”
+* Fourth step is to set up Hugo automatic configuration (if not done automatically)
+   * In your repo, go to Settings > Pages > Build and deployment > Source: GitHub Actions.
+   * At .github/workflows/pages.yml, add the text that I have in .github/workflows/pages.yml. It should be about 75 lines.
+   * Push and commit. Then wait a couple of minutes and check your domain to see whether it looks like a webpage. 
+* Fifth step is to customise the webpage. 
 
 
 ## How to Edit Each Section
