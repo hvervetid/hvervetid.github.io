@@ -1,1 +1,1 @@
-insane
+Check if git works.

@@ -6,6 +6,6 @@ defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "PhD student in Economics at Stanford (2024 cohort)"
+    shortbio = "PhD student in Economics at Stanford (matriculated 2024)"
     logo = "mefancy.jpg" 
     
